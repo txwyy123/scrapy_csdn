@@ -1,2 +1,2 @@
 # scrapy_csdn
-学习学习scrapy,爬了点csdn的文章
+a python crawler using scrapy that collects articles from CSDN website and stores them in mysql and redis
